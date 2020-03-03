@@ -2,8 +2,7 @@
   "name": "eleventy-boilerplate",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/natedillon/eleventy-boilerplate.git"
